@@ -1,0 +1,20 @@
+body{ margin:10px; 
+  background:#FFE0B2
+   url(https://images.pexels.com/photos/107956/pexels-photo-107956.jpeg?h=350&auto=compress)no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;; 
+  color:#B24900;
+}
+#my_canvas{ background:#FFE0B2; border:#B24900 1px solid; }
+
+
+a:link    {color:#B24900;  text-decoration:none}
+a:visited {color:#B24900; text-decoration:none}
+a:hover   {color:#FF8633; text-decoration:underline} /* Yellow */
+
+h1{
+  font-family: Helvetica;
+  font-size: 450%;
+}
